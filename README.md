@@ -4,3 +4,4 @@ https://github.com/Sharanya1236/Sharanya-Godishala/blob/main/2203A51236_Assignme
 https://github.com/Sharanya1236/Sharanya-Godishala/blob/main/Assignment3_AIML.ipynb
 https://github.com/Sharanya1236/Sharanya-Godishala/blob/main/Assignment4_AIML.ipynb
 https://github.com/Sharanya1236/Sharanya-Godishala/blob/main/Assignment5_AIML.ipynb
+https://github.com/Sharanya1236/Sharanya-Godishala/blob/main/Lab06_AIML.ipynb
