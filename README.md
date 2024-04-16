@@ -8,3 +8,4 @@ https://github.com/Sharanya1236/Sharanya-Godishala/blob/main/Lab06_AIML.ipynb
 https://github.com/Sharanya1236/Sharanya-Godishala/blob/main/Assignment7_AIML.ipynb
 https://github.com/Sharanya1236/Sharanya-Godishala/blob/main/aiml_asgn8.ipynb
 https://github.com/Sharanya1236/Sharanya-Godishala/blob/main/asgn9.ipynb
+https://github.com/Sharanya1236/Sharanya-Godishala/blob/main/aiml_asgn10.ipynb
