@@ -9,3 +9,4 @@ https://github.com/Sharanya1236/Sharanya-Godishala/blob/main/Assignment7_AIML.ip
 https://github.com/Sharanya1236/Sharanya-Godishala/blob/main/aiml_asgn8.ipynb
 https://github.com/Sharanya1236/Sharanya-Godishala/blob/main/asgn9.ipynb
 https://github.com/Sharanya1236/Sharanya-Godishala/blob/main/aiml_asgn10.ipynb
+https://github.com/Sharanya1236/Sharanya-Godishala/blob/main/IBM_HR_Analytics_on_Employee_Attrition_%26_Performance.ipynb
